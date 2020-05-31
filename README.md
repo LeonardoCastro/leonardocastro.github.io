@@ -8,6 +8,8 @@ I am a second year PhD student in Economics at the University of Birmingham. I a
 
 My research interest lies in the transdisciplinary work to understand our economic and urban dynamics as society. The aim of my PhD is to discover the links between the economic activity with the urban network in England.
 
+You can find my different programming projects in [my github website](https://github.com/LeonardoCastro).
+
 ## Undergoing projects
 
 ### Understanding, Predicting and Preventing Drug-related Problems in England: A Data-centric Approach.
