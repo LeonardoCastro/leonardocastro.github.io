@@ -8,7 +8,7 @@ I am a second year PhD student in Economics at the University of Birmingham. I a
 
 My research interest lies in the transdisciplinary work to understand our economic and urban dynamics as society. The aim of my PhD is to discover the links between the economic activity with the urban network in England.
 
-## Undergoing projects:
+## Undergoing projects
 
 ### Understanding, Predicting and Preventing Drug-related Problems in England: A Data-centric Approach.
 
@@ -35,7 +35,7 @@ Past events:
 **Education in Physics**
 - [Castro González, L., Lárraga, M.E., del Río, J.A., "Modeling an urban highway: a statistical physics point of view for a non physical system", Revista Mexicana de Física E, 2019 (65).](https://bit.ly/30AFElZ)
 
-**Popular science (in Spanish)
+**Popular science (in Spanish)**
 - [Castro González, L., del Río J.A., ¨Carreteritas con autómatas celulares¨, La unión de Morelos, May 23 2016](https://bit.ly/36bo7BN)
 - [Castro González, L., del Río J.A., ¨Física y matemáticas para entender los embotellamientos de una carretera¨, La unión de Morelos, May 30 2016](https://bit.ly/3ao4sCh)
 - [Castro González, L., del Río J.A., "Simulando una carretera con autómatas celulares: el caso del libramiento de Cuernavaca", La unión de Morelos, Aug 15 2016](https://bit.ly/2Gd63gm)
