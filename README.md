@@ -14,7 +14,7 @@ You can find my different programming projects in [my github website](https://gi
 
 ### Understanding, Predicting and Preventing Drug-related Problems in England: A Data-centric Approach.
 
-The illicit drug market in the UK has evolved in past decade, giving birth to new models of drug supply models like deep-web online sales and the county lines model. Combined with a declining workforce from the different polices in the UK, getting a clear snapshot of the supply routes is becoming increasingly difficult. Using open data from the government for England, the aim of this project is to understand how these new supply models evolve over time. By doing this, we aim to understand the geographic structure of the demand of illicit-drugs and project the future routes with high risk of being overtaken by illicit drug suppliers. 
+Author. The illicit drug market in the UK has evolved in the past decade, giving birth to new models of drug supply like deep-web online sales and the county lines model. Combined with a declining workforce from the different polices in the UK, getting a clear snapshot of the supply routes is becoming increasingly difficult. Using open data from the government for England, the aim of this project is to understand how these new supply models evolve over time. By doing this, we aim to understand the geographic structure of the demand of illicit-drugs and project the future routes with high risk of being overtaken by illicit drug suppliers. 
 
 The database is held [here](https://github.com/LeonardoCastro/BritishDrugDynamics). 
 
@@ -24,11 +24,11 @@ A virtual poster will be presented at the [AI UK Conference 2020 Digital poster 
 
 ### Mexicovid19
 
-Co-founder. A [website](https://mexicovid19.github.io/Mexico/) (in Spanish) to track and analyse the Coronavirus pandemic in Mexico. The datasets used are updated daily and published [here](https://github.com/mexicovid19/Mexico-datos).
+Co-founder. A [website](https://mexicovid19.github.io/Mexico/) in Spanish to track and analyse the Coronavirus pandemic in Mexico. The datasets used are updated daily and published [here](https://github.com/mexicovid19/Mexico-datos).
 
 ### The Complexity Lates
 
-Co-organiser. The Complexity Lates are a student organised events for PhD students and early career scientists to present their work in Complexity Sciences in a relaxed ambient. Past events have been hosted at [The London Institute for Mathematical Sciences](https://lims.ac.uk/).
+Co-organiser. The Complexity Lates are student organised events for PhD students and early career scientists to present their work in Complexity Sciences in a relaxed ambient. Past events have been hosted at [The London Institute for Mathematical Sciences](https://lims.ac.uk/).
 
 Past events:
 - [Mathematical Modelling in Biology](https://lims.ac.uk/event/mathematical-modelling-in-biology/) (March 2020 - postponed)
