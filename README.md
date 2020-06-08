@@ -38,6 +38,9 @@ Past events:
 
 ## Publications
 
+**Reports**
+- [Data Study Group team. (2020, June 5). Data Study Group Final Report: WWF. Zenodo. http://doi.org/10.5281/zenodo.3878457](https://www.turing.ac.uk/research/publications/data-study-group-final-report-wwf)
+
 **Education in Physics**
 - [Castro González, L., Lárraga, M.E., del Río, J.A., "Modeling an urban highway: a statistical physics point of view for a non physical system", Revista Mexicana de Física E, 2019 (65).](https://bit.ly/30AFElZ)
 
