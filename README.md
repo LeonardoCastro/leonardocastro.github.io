@@ -1,10 +1,11 @@
 # Leonardo Castro-Gonzalez
 
-I am a second year PhD student in Economics at the University of Birmingham. I am currently in a Visiting Student position at the Alan Turing Institute in the Urban Analytics Programme (Oct 2019 - Sep 2020). Before starting my PhD, I did my MSc in Complex Systems Modelling at King's College London (Distinction) and my BSc in Physics at UNAM (Mexico - 9.32/10).
+I am a final year PhD student in Economics at the University of Birmingham. I am currently working as a Research Assistant at the Alan Turing Institute, working at the [Shock and Resilience Project](https://www.turing.ac.uk/research/research-projects/shocks-and-resilience), working with [Prof. Helen Margetts](https://www.turing.ac.uk/people/researchers/helen-margetts) and [Dr. Jonathan Bright](https://www.turing.ac.uk/node/1794) on Misinformation networks and Nodality. This position will become a postdoctoral research one once I obtain my PhD degree (expected late summer 2022 :) ). In the second quarter of 2023, I will join the Computational Social Sciences Project, working with [Dr. Omar Guerrero](https://www.turing.ac.uk/people/researchers/omar-guerrero).
+Previous to this, I was a Visiting Student position at the Alan Turing Institute in the Urban Analytics Programme (Oct 2019 - Sept 2021). Before starting my PhD, I did my MSc in Complex Systems Modelling at King's College London (Distinction) and my BSc in Physics at UNAM (Mexico - 9.32/10).
 
 **My research interests keywords:** Complexity Economics, Urban Sciences, Statistical Physics, Data Science.
 
-**Main supervisor:** Prof. [Ganna Pogrebna](http://www.gannapogrebna.com/) ([UoB](https://www.birmingham.ac.uk/staff/profiles/business/pogrebna-ganna.aspx)/[ATI](https://www.turing.ac.uk/people/researchers/ganna-pogrebna))
+**Main supervisor:** [Prof. Ganna Pogrebna](http://www.gannapogrebna.com/) ([UoB](https://www.birmingham.ac.uk/staff/profiles/business/pogrebna-ganna.aspx)/[ATI](https://www.turing.ac.uk/people/researchers/ganna-pogrebna))
 
 My research interest lies in the transdisciplinary work to understand our economic and urban dynamics as society. The aim of my PhD is to discover the links between the economic activity with the urban network in England.
 
@@ -18,7 +19,7 @@ Author. The illicit drug market in the UK has evolved in the past decade, giving
 
 The database is held [here](https://github.com/LeonardoCastro/BritishDrugDynamics). 
 
-A virtual poster will be presented at the [AI UK Conference 2020 Digital poster exhibition](https://www.turing.ac.uk/events/ai-uk-2020-digital-poster-exhibition) on the 2nd of June, 2020. The poster was going to be presented at the [AI UK Conference](https://www.turing.ac.uk/ai-uk) (24 - 25 March, 2020) before it was postponed.
+The project was presented at the Conference in Complexity Sciences 2021 in Lyon, France. I presented the same project at the Satellite sessions of Applications of Complexity Sciences and the Computational Social Sociences. A virtual poster as also presented at the [AI UK Conference 2020 Digital poster exhibition](https://www.turing.ac.uk/events/ai-uk-2020-digital-poster-exhibition) on the 2nd of June, 2020. The poster was going to be presented at the [AI UK Conference](https://www.turing.ac.uk/ai-uk) (24 - 25 March, 2020) before it was postponed.
 
 **Co-authors:** Prof. [Ganna Pogrebna](http://www.gannapogrebna.com/) ([UoB](https://www.birmingham.ac.uk/staff/profiles/business/pogrebna-ganna.aspx)/[ATI](https://www.turing.ac.uk/people/researchers/ganna-pogrebna)) and Prof. [Weisi Guo](https://www.weisiguo.com/cv) ([Cranfield](https://www.cranfield.ac.uk/people/professor-weisi-guo-24667823)/[ATI](https://www.turing.ac.uk/people/researchers/weisi-guo))
 
@@ -52,5 +53,5 @@ Past events:
 
 ## Contact
 
-- email: lcastrogonzalez [at] turing [dot] ac [dot] uk
+- email: lmcastrogonzalez [at] turing [dot] ac [dot] uk
 - twitter: [@leonardo_c25](https://twitter.com/leonardo_c25)
