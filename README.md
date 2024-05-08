@@ -1,12 +1,22 @@
 # Leonardo Castro-Gonzalez
 
-I am a second year PhD student in Economics at the University of Birmingham. I am currently in a Visiting Student position at the Alan Turing Institute in the Urban Analytics Programme (Oct 2019 - Sep 2020). Before starting my PhD, I did my MSc in Complex Systems Modelling at King's College London (Distinction) and my BSc in Physics at UNAM (Mexico - 9.32/10).
+I am a Research Data Scientist with experience in Computational Social Science. 
 
-**My research interests keywords:** Complexity Economics, Urban Sciences, Statistical Physics, Data Science.
+I am currently a collaborator at the AI & Arts interest group of the Alan Turing Institute. I am also currently working with the International Labour Organzation's Chief Macroeconomist on applications of Game Theory with Network Science to understand money-saving patterns. Before that, I was a Postdoctoral Research Associate at the Public Policy Programme of the Alan Turing Institute where I work with the Computational Social Science group, the Online Safety Team and at the Shocks and Resilience project.
 
-**Main supervisor:** Prof. [Ganna Pogrebna](http://www.gannapogrebna.com/) ([UoB](https://www.birmingham.ac.uk/staff/profiles/business/pogrebna-ganna.aspx)/[ATI](https://www.turing.ac.uk/people/researchers/ganna-pogrebna))
+**Keywords:** Computational Social Science, Natural Language Processing, Network Science, Complexity Science, Inequalities
 
-My research interest lies in the transdisciplinary work to understand our economic and urban dynamics as society. The aim of my PhD is to discover the links between the economic activity with the urban network in England.
+[Turing website][turingwebsite]
+[Computational Social Science group][cssgroup]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height = '30' src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+
+[turingwebsite]: https://www.turing.ac.uk/people/researchers/leonardo-castro-gonzalez
+[cssgroup]: https://turingcss.org/people/lcg/
+[twitter]:https://twitter.com/leonardo_c25
+[linkedin]: https://www.linkedin.com/in/leonardo-castro-gonzalez-0460951aa/
+
 
 You can find my different programming projects in [my github website](https://github.com/LeonardoCastro).
 
